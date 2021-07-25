@@ -2,7 +2,7 @@
 
 let exemplo1 = 'EmailTesteJavaScript@hotmail.com'
 
-console.log('Minusculas ->', exemplo1.toLocaleLowerCase())
+console.log('Minúsculas  ->', exemplo1.toLocaleLowerCase())
 
 
-console.log('Maiusculas ->', exemplo1.toLocaleUpperCase())
+console.log('Maiúsculas  ->', exemplo1.toLocaleUpperCase())
